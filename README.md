@@ -1,3 +1,3 @@
 ## JOLOJ ##
 
-Joloj is a ROV project by [Aqua Robotics](www.aquarobotics.org).
+Joloj is a ROV project by [Aqua Robotics](https://www.aquarobotics.org).
