@@ -1,3 +1,3 @@
 For motion sensing we are using [MPU6050 chip](http://www.invensense.com/products/motion-tracking/6-axis/mpu-6050/).
 
-We are using [I2Cdev](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/I2Cdev) and [MPU6050](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050) library by [Jeff Rowberg](https://github.com/jrowberg).
+We are using [I2Cdev](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/I2Cdev) and [MPU6050](https://github.com/jrowberg/i2cdevlib/tree/master/Arduino/MPU6050) library for Arduino by [Jeff Rowberg](https://github.com/jrowberg). These library contains three examples in arduino **MPU6050_Calibration**, **MPU6050_DMP6**, **MPU6050_raw**. We have adapted DMP6 example for our need. This library contains several output option but we are interested in OUTPUT_READABLE_YAWPITCHROLL option. Which gives yaw, pitch, roll in ypr[3] array.
