@@ -13,11 +13,9 @@
 2. Hands
 3. Camera
 4. Valve(Manual?)
-5. Actuator(Manual?)
-6. Head Light
+5. Head Light
 
 ### Condition ###
 
 1. Chamber Condition
 2. Battery
-3. Compressed Air Pressure
