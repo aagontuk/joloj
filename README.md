@@ -20,6 +20,6 @@ JoloJ is a ROV project by [Aqua Robotics](https://www.aquarobotics.org).
 
 1. Arm design and construction - 26/09/2016
 2. Fund collection - 05/10/2016
-3. Propeller and mountings design - 27/09/2016
+3. Propeller and mountings design + construction - 27/09/2016
 4. Ground Control Station(GCS) + PID algorithm implementation + Arduino code - 30.10.2016
-5. PCD design - ?
+5. PCB design - ?
