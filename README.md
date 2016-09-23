@@ -4,7 +4,7 @@ JoloJ is a ROV project by [Aqua Robotics](https://www.aquarobotics.org).
 
 ### Planned Features ###
 
-1. JoloJ will explore 3m depth underwater.
+1. JoloJ will explore under 3m depth.
 2. PVC will be used as the primary construction material.
 3. 2 Buoyancy chambers will be used for diving and lifting.
 4. 6 Thrusters for 5 DOF motion.
