@@ -16,10 +16,17 @@ JoloJ is a ROV project by [Aqua Robotics](https://www.aquarobotics.org).
   3. Pressure Sensor.
 8. External high capacity battery.
 
-### TO DO & Deadlines ###
+### TO DO & Project Status ###
 
-1. Arm design and construction - 26/09/2016
-2. Fund collection - 05/10/2016
-3. Propeller and mountings design + construction - 27/09/2016
-4. Ground Control Station(GCS) + PID algorithm implementation + Arduino code - 30.10.2016
-5. PCB design - ?
+1. Arm design - DONE
+2. Arm construction - DONE
+3. Fund collection - Not Yet Done(NYD)
+5. Propeller and mountings design - NYD
+6. Ground Control Station(GCS) - NYD
+7. PID algorithm implementation - NYD
+8. Arduino code - NYD
+9. PCB design - NYD
+
+### Guide Me ###
+
+
