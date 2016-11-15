@@ -10,7 +10,7 @@
 | Pressure Sensor    | 1        | 1            | 0      |
 | Pump               | 1        | 1            | 0      |
 | Valve              | 5        | 5            | 0      |
-| Buck               | 5        | 2            | 3      |
+| Buck               | 1        | 2            | -1     |
 | BLDC               | 6        | 0            | 6      |
 | ESC                | 6        | 0            | 6      |
 | Relay              | 18       | 0            | 18     |
