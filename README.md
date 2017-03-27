@@ -11,9 +11,9 @@ JoloJ is a ROV project by [Aqua Robotics](https://www.aquarobotics.org).
 5. Hand to rescue under water rings(!). Like the second secret copy of the Lord of the rings!
 6. Camera for video feed.
 7. Sensors:
-  1. Motion sensor for automatic balancing capability.
-  2. Temperature Sensor.
-  3. Pressure Sensor.
+    1. Motion sensor for automatic balancing capability.
+    2. Temperature Sensor.
+    3. Pressure Sensor.
 8. External high capacity battery.
 
 ### TO DO & Project Status ###
