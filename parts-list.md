@@ -3,8 +3,8 @@
 | Name               | Quantity | Already Have | To Buy |
 | :----------------: | :------: | :----------: | :----: |
 | Raspberry Pi       | 1        | 1            | 0      |
-| Pi Charger         | 1        | 0            | 1      |
-| Pi Camera          | 1        | 0            | 1      |
+| Pi Charger         | 1        | 1            | 0      |
+| Pi Camera          | 1        | 1            | 0      |
 | Arduino            | 1        | 1            | 0      |
 | Temperature Sensor | 1        | 1            | 0      |
 | Pressure Sensor    | 1        | 1            | 0      |
